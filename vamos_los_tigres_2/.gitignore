@@ -1,0 +1,3 @@
+*.dat
+!dato1.dat
+datos/
